@@ -1,0 +1,7 @@
+.sl-nav {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  z-index: 9;
+  text-align: center;
+}
